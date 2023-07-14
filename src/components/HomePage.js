@@ -8,7 +8,7 @@ function HomePage() {
   const imageListRef = useRef(null);
 
   useEffect(() => {
-    const text = 'Get ready to pump and share it with your bros!';
+    const text = 'Get ready to pump up and share it with your bros!';
     let index = 0;
 
     const intervalId = setInterval(() => {
