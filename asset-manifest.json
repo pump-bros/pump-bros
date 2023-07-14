@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.92fe208f.css",
-    "main.js": "/static/js/main.fb062e97.js",
-    "static/media/pump-bro.png": "/static/media/pump-bro.7d1ad1e741624f529bd9.png",
-    "static/media/notification.png": "/static/media/notification.55e65ed8d42809ae7b97.png",
-    "static/media/landing.jpg": "/static/media/landing.b24bab684893205fa49d.jpg",
-    "index.html": "/index.html",
-    "main.92fe208f.css.map": "/static/css/main.92fe208f.css.map",
-    "main.fb062e97.js.map": "/static/js/main.fb062e97.js.map"
+    "main.css": "/pump-bros/static/css/main.e3aba099.css",
+    "main.js": "/pump-bros/static/js/main.507bc096.js",
+    "static/media/pump-bro.png": "/pump-bros/static/media/pump-bro.7d1ad1e741624f529bd9.png",
+    "static/media/notification.png": "/pump-bros/static/media/notification.55e65ed8d42809ae7b97.png",
+    "static/media/landing.jpg": "/pump-bros/static/media/landing.b24bab684893205fa49d.jpg",
+    "index.html": "/pump-bros/index.html",
+    "main.e3aba099.css.map": "/pump-bros/static/css/main.e3aba099.css.map",
+    "main.507bc096.js.map": "/pump-bros/static/js/main.507bc096.js.map"
   },
   "entrypoints": [
-    "static/css/main.92fe208f.css",
-    "static/js/main.fb062e97.js"
+    "static/css/main.e3aba099.css",
+    "static/js/main.507bc096.js"
   ]
 }
